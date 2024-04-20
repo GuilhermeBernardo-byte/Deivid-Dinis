@@ -1,0 +1,126 @@
+  
+        body{
+            background-color: #fffcff;
+            color: #00005d;
+        }
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 0px 5px;
+            
+        }
+        header .projetos ul {
+            list-style: none;
+            justify-content: center;
+            align-items: center;
+            
+
+        }
+        .projetos a{
+            
+            text-decoration: none;
+            color: #fffcff;
+            display: inline-flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #3d1fd2ea ;
+            text-align: center;
+            border: 1px solid;
+            border-radius: 3vw;
+            width: 30vh;
+            height: 5vh
+        }
+   
+        .sobre{
+            align-items: center;
+            justify-content: center;
+            display: flex;
+            padding: 10px;
+            
+        }
+        img#perfil {
+            border: 4px solid #3d1fd2ea;
+            border-radius: 20vw ;
+            margin-right: 0px;
+            width: 70%;
+           
+            
+        }
+        .img1{
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+            width: 100vh;
+            height: 50vh;
+            text-align: right;    
+        }
+        .apresentacao strong{
+            font-size: 30px;
+            margin-top: 0px;
+            margin-bottom: 20vh;
+        }
+        
+        .pap{
+            font-family: 'Times New Roman', Times, serif;
+            font-size: 23px;
+            margin-top: 2px;
+            margin-bottom: 0px;
+        }
+        #formacao{
+            background-color: rgb(61, 31, 210);
+            color: #fffcff;
+            align-items: center;
+            justify-content: center;
+            padding: 10px;
+            display: block;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            font-size: 18px;
+            
+        }
+        .linguagens{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 10px;
+        }
+        .linguas ul {
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            list-style: circle;
+        }
+        #contactos{
+            align-items: center;
+            display: inline;
+            justify-content: space-between;
+
+        }
+        .ctn{
+            align-items: center;
+            display: flex;
+            justify-content: space-between;
+        }
+        #contactos p {
+            margin: 0px;
+            margin-top: 0px;
+        }
+        #contactos ul {
+            list-style: none;
+            display: inline-block;
+            align-items: center;
+            display: flex;
+            justify-content: space-between;
+        }
+        #contactos ul li{
+            margin: 2px 2px;
+        }
+        .menu-social{
+         align-items: center;
+         display: flex;
+         justify-content: center;
+         position: relative;
+         list-style-type: none;
+        }
+        .criado_por {
+            color: rgba(0, 0, 0, 0.767);
+            text-align: center;
+        }
